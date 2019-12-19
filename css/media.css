@@ -153,6 +153,9 @@
     .header__social span {
         padding: 0 5px;
     }
+    .intro__btn {
+        font-size: 19px;
+    }
 }
 
 @media (max-width: 323px) {
