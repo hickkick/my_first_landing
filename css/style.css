@@ -26,6 +26,7 @@ li{
     background-image: url('../images/bg1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    margin-bottom: 30px;
     height: 100vh;
 }
 .container{
@@ -113,6 +114,7 @@ text-transform: uppercase;
     text-align: center;
     color: #fff;
     padding: 25px 66px;
+    margin-bottom: 50px;
 }
 .intro__btn:hover {
     color: #b74568;
